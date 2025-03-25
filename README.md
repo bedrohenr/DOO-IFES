@@ -1,7 +1,7 @@
 # Desevolvimento Orientado a Objeto - IFES
 Disciplina Desenvolvimento Orientado a Objeto do curso Sistemas de Informação.
 
-Este repositório contém submodulos para os repositórios com os códigos e seu README.
+Este repositório contém submodulos para os repositórios com o código fonte e seu README.
 
 # Exercícios
 
